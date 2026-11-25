@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2026108256\\Documents\\desaign de jogos\\unity labs\\My project (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\2026108256\\documents\\desaign de jogos\\unity labs\\my project (1)\\assets\\scripts\\clue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clue.cs",
+              "DocumentMoniker": "C:\\Users\\2026108256\\Documents\\desaign de jogos\\unity labs\\My project (1)\\Assets\\scripts\\clue.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\clue.cs",
+              "ToolTip": "C:\\Users\\2026108256\\Documents\\desaign de jogos\\unity labs\\My project (1)\\Assets\\scripts\\clue.cs",
+              "RelativeToolTip": "Assets\\scripts\\clue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T11:30:42.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
